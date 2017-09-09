@@ -1,1 +1,1 @@
-FROM docker.elastic.co/beats/heartbeat:5.4.1
+FROM docker.elastic.co/beats/heartbeat:5.5.2
